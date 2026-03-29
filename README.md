@@ -1,11 +1,6 @@
 # toml_parse
-
-toml_parse: Minimal TOML parser.
-
-Single-file, zero-dependency Python CLI.
-
+Single-file Python CLI tool. Zero dependencies, Python 3.8+.
 ## Usage
-
 ```bash
-python3 toml_parse.py test
+python3 toml_parse.py --test
 ```
